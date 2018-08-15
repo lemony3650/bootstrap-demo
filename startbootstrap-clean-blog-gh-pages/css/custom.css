@@ -1,0 +1,11 @@
+.post-title{
+    background-color: #777;
+    border: 10px solid green;
+}
+#post{
+    border: 5px dotted green;
+    background-color: #fff;
+}
+.post-meta a {
+    background-color: blue;
+}
